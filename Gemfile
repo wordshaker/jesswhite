@@ -1,8 +1,7 @@
 source "https://rubygems.org"
 
 group :jekyll_plugins do
-  gem "jekyll-bookshop", "2.2.2"
-  gem "cloudcannon-jekyll-bookshop", "2.2.2"
+  gem "jekyll-bookshop", "3.3.0"
   gem 'jekyll-watch', :git => "https://github.com/CloudCannon/jekyll-watch"
   gem 'jekyll-tagging'
   gem "jekyll-sitemap"
@@ -11,3 +10,5 @@ group :jekyll_plugins do
   gem "webrick", "~> 1.7"
 end
 
+
+gem "cloudcannon-jekyll", "~> 3.2", :group => :jekyll_plugins
