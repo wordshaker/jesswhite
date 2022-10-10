@@ -1,6 +1,8 @@
 
 ## Jessica White's Personal Website
 
+The personal website of Jessica White.
+
 ## Develop
 
 Vonge was built with [Jekyll](http://jekyllrb.com/) version 4.2.0, but should support newer versions as well.
