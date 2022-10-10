@@ -1,0 +1,13 @@
+[component]
+structures = [ "content_blocks" ]
+label = "Contact Form"
+description = "Generic contact form"
+icon = "wysiwyg"
+tags = ["Text"]
+
+[props]
+form_title = "Get in touch"
+form_description = "Built in form to get in touch with Jess.."
+form_success_page = "/"
+form_submission_email = "me@jesswhite.co.uk" # Add your email for contact form
+form_button_text = "Send now"
