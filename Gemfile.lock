@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/CloudCannon/jekyll-watch
-  revision: 328940540e279e77a83eb60ad7c3a94a848f8821
+  revision: d220b890e179afc1c518d34c32be8bf168b19ace
   specs:
     jekyll-watch (2.2.1)
       listen (~> 3.0)
