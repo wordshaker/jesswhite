@@ -6,7 +6,7 @@ icon = "wysiwyg"
 tags = ["Content"]
 
 [props]
-title = "Recent Works"
+title = "Blog"
 description_html = "Posts from Jessica White on tech, management and life."
 link_url = "/blog"
 show_posts = true

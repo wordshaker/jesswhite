@@ -2,9 +2,9 @@ footer_menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Elements'
-      url: '/elements/'
-    - title: 'About'
-      url: '/about/'
     - title: 'Blog'
       url: '/blog/'
+    - title: 'Activity'
+      url: '/activity/'
+    - title: 'About'
+      url: '/about/'
