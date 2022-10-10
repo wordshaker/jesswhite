@@ -8,7 +8,7 @@ published: false
     interactive component library on your website.
 -->
 {% if jekyll.environment == "production" %}
-    {% bookshop_browser /js/bookshop-hosted.js %}
+    {% bookshop_component_browser %}
 {% else %}
-    {% bookshop_browser :6086 %}
+    {% bookshop_component_browser 6086 %}
 {% endif %}
