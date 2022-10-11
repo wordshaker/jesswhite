@@ -18,6 +18,7 @@ exclude:
 
 include:
   - _cloudcannon
+  - pages
 
 # The rest of this array structure will be
 # populated by the bookshop-array-structures plugin.
@@ -35,7 +36,7 @@ collections:
     output: false
   posts:
     output: true
-    permalink: /blog/:slug
+    permalink: /blog/:title
 
 cloudcannon:
   collections:
