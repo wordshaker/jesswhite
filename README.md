@@ -1,6 +1,10 @@
 
 ## Jessica White's Personal Website
 
+[![JessWhite Deploy to CO.UK](https://github.com/wordshaker/jesswhite/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/wordshaker/jesswhite/actions/workflows/deploy.yml)
+
+[![Known Vulnerabilities](https://snyk.io/test/github/wordshaker/jesswhite/badge.svg)]
+
 The personal website of Jessica White.
 
 ## Develop
