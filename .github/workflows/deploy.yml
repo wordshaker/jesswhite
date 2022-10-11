@@ -41,7 +41,7 @@ jobs:
 
     - name: Deploy To S3
       run: |
-        aws s3 sync ./site/_cloudcannon/bookshop-live.js s3://jesswhite.co.uk/  --delete
+        aws s3 sync ./site/ s3://jesswhite.co.uk/  --delete
         echo "Deployed to S3"
 
     - name: Invalidate CloudFront cache
