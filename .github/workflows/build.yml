@@ -21,6 +21,7 @@ jobs:
       run: |
         npm run install-jekyll
 
-    - name: Build Site
+    - name: Build Jekyll
+      working-directory: ./site
       run: |
-        npm run build-jekyll
+        bundle exec jekyll build
