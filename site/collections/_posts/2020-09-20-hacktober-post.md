@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Hacktober Hints For Contributors
 description: "Links and tips for how to take part in Hacktober and where to find repositories to contribute to."
 date: 2020-09-20

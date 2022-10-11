@@ -92,7 +92,7 @@ DEPENDENCIES
   jekyll-sitemap
   jekyll-tagging
   jekyll-watch!
-  wdm (>= 0.1.0)
+  wdm (~> 0.1.1)
   webrick (~> 1.7)
 
 BUNDLED WITH

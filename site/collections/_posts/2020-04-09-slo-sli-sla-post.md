@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Service Levels
 description: "Explaining Service Levels Objectives, Agreements and Indicators, what they are and how they are useful."
 image: "/images/posts/2020/04-09.jpg"
