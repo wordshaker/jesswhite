@@ -44,6 +44,8 @@ GEM
     jekyll-bookshop (3.3.0)
       dry-inflector (>= 0.1, < 1.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-feed (0.16.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-pagebreak (0.9.2)
       jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (2.2.0)
@@ -88,6 +90,7 @@ PLATFORMS
 DEPENDENCIES
   cloudcannon-jekyll (~> 3.2)
   jekyll-bookshop (= 3.3.0)
+  jekyll-feed
   jekyll-pagebreak (~> 0.9)
   jekyll-sitemap
   jekyll-tagging

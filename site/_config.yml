@@ -6,6 +6,7 @@ plugins:
   - jekyll/tagging
   - jekyll-pagebreak
   - cloudcannon-jekyll
+  - jekyll-feed
 
 # Multiple bookshops can be used on one website,
 # or different production / staging locations.
