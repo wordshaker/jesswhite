@@ -153,7 +153,7 @@ It may be that outages from external dependencies can mean that SLAs aren't met.
 
 Lastly, we come to SLIs. These are the measures of level of service, which help us determine if we are meeting the SLOs and SLAs. SLIs can include measurements of availability or downtime as well as metrics about how your service is performing.
 
-If you have some baselines of metrics currently in place in your system, some of these SLIs may already be covered. Common measurements often include errors, duration of calls and rate of throughput. Some of these measures are covered in my previous posts <a href="https://jesswhite.co.uk/2019/08/31/practicaldashboardspart3-post.html" rel="noreferrer" target="_blank">Metric Baselines For APIs</a> and <a href="https://jesswhite.co.uk/2019/06/15/practicaldashboardspart2-post.html" rel="noreferrer" target="_blank">Metrics Baselines for Services
+If you have some baselines of metrics currently in place in your system, some of these SLIs may already be covered. Common measurements often include errors, duration of calls and rate of throughput. Some of these measures are covered in my previous posts <a href="{{site.baseurl}}/blog/practicaldashboardspart3-post" rel="noreferrer" target="_blank">Metric Baselines For APIs</a> and <a href="{{site.baseurl}}/blog/practicaldashboardspart2-post" rel="noreferrer" target="_blank">Metrics Baselines for Services
 </a>.
 
 In order to measure SLAs and SLOs, SLIs need to be put into place. Objectives and agreements are often tracked by percentage over time, and as such SLIs are often aggregated and measured in the same way to see if expectations are met.
