@@ -32,7 +32,7 @@ This was my very first go at doing a public talk, and admittedly it took a lot o
  but this was the first chance to get to know her well, and her talk was really well delivered.
 
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/images/posts/2016/11-12/speakers.jpg" alt="Tools">
+<img src="{{site.baseurl}}/images/posts/2016/11-12/speakers.jpg" alt="Picture of Jess with Samathy">
 </div>
 
  The experience of the talk was not as bad as expected either. It is still scary. I didn't trip and fall on my face. People 
@@ -46,7 +46,7 @@ I was going to share the slides alone, but there is nothing on them, so instead 
 #### You will never stop learning
 
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/images/posts/2016/11-12/learning_slide.jpg" alt="Tools">
+<img src="{{site.baseurl}}/images/posts/2016/11-12/learning_slide.jpg" alt="Tools to learn from">
 </div>
 
 This is my favourite thing about being an engineer. There is an endless wealth of things to learn about. Even when you think you have the handle on a topic, new stuff will come out in the next ten minutes. 
@@ -74,7 +74,7 @@ If you are lucky you will be surrounded by talented and more experienced develop
 These people have had YEARS to learn. Even if they have the same amount of experience, they may have focused on a different area from you and learnt about it to a further degree. Do not mistake their different experience to intelligence. You are smart. It's likely you are learning at AT LEAST the same pace as the people you work with. You may even have some knowledge that your colleagues don't.
 
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/images/posts/2016/11-12/Imposter.jpg" alt="Tools">
+<img src="{{site.baseurl}}/images/posts/2016/11-12/Imposter.jpg" alt="Pie chart of peoples perceived knowledge">
 </div>
 
 The other side to this is that you will work with people who forget what it's like to be new. They might treat you like you know very little. Remind them that you are new to this and that they had to learn once too. There is a way to work with people that have more experience without feeling very small about yourself. If someone makes you feel small, that is something they need to work on to avoid doing. Even the most experienced developers can learn from the newest. This is all thanks again to the vast field we work on. In this field we all get different experiences, and exposure to different techniques. As such we can all learn from each other.
@@ -88,7 +88,7 @@ For some reason, back end development has a crazy reputation for being complicat
 #### Even Though Sometimes It Won't Feel Like It
 
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/images/posts/2016/11-12/horo.jpg" alt="Tools">
+<img src="{{site.baseurl}}/images/posts/2016/11-12/horo.jpg" alt="Image of Horo in different states of panic">
 </div>
 
 There is a common theme throughout these points. Some days you will feel on top of the world; while others, not so much. The self-doubt, the comparisons to other colleagues, the sometimes feeling alone. Turns out this is a thing. It's called imposter syndrome. Want to know a secret - it's common. It's hard to fight, but together we can.
@@ -101,9 +101,10 @@ This will happen, there is no real way of avoiding it. When you start to see som
 
 #### You can do anything!
 
-<div style="text-align:center" markdown="1">
-![Imposter Syndrome](../assets/img/2016-11-12/wecandoit.jpg)
+<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
+<img src="{{site.baseurl}}/images/posts/2016/11-12/wecandoit.jpg" alt="Imposter Syndrome">
 </div>
+
 Right now the world is a bit scary. Knowing if you are going down the right path is not something that necessarily comes easily.
 
 You know what? It's not the end of the world. You might be good at one part of development and suck at another. I am working to be a great backend engineer. Part of this is because I SUCK at front end engineering. You might not enjoy a certain challenge within engineering yet flourish in another.
