@@ -82,3 +82,13 @@ defaults:
 tag_page_dir: tag
 tag_page_layout: tag_page
 tag_permalink_style: /:title
+
+pagination:
+  enabled: true
+  per_page: 6
+  offset: 2
+  permalink: '/blog/page/:num/'
+  title: ':title - page :num of :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true

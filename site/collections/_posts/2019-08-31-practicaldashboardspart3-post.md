@@ -14,7 +14,7 @@ tags: ['2019']
 ---
 <br/>
 
-As mentioned in the [previous post](https://jesswhite.co.uk/2019/04/15/practicaldashboardspart1-post.html) having baselines for dashboards can be useful for a variety of reasons.
+As mentioned in the <a href="{{site.baseurl}}/blog/practicaldashboardspart1-post" target="_blank">previous post</a> having baselines for dashboards can be useful for a variety of reasons.
 
 * Recognising patterns for where to investigate when something goes wrong in your system.
 * Transferable knowledge across teams.3
