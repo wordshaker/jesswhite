@@ -8,9 +8,5 @@ menu__settings:
       url: '/blog/'
     - title: 'Activity'
       url: '/activity/'
-    - title: 'Pages'
-      submenu:
-      - url: '/about/'
-        title: 'About'
-      - url: '/elements/'
-        title: 'Elements'
+    - title: 'About'
+      url: '/about/'
