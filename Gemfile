@@ -6,8 +6,8 @@ group :jekyll_plugins do
   gem 'jekyll-tagging'
   gem "jekyll-sitemap"
   gem "jekyll-pagebreak", "~> 0.9"
-  gem 'wdm', '>= 0.1.0'
   gem "webrick", "~> 1.7"
+  gem 'wdm', '~> 0.1.1', :install_if => Gem.win_platform?
 end
 
 
