@@ -14,7 +14,7 @@ tags: ['2018']
 --- 
 <br/>
 
-The earlier blog post <a href="{{site.baseurl}}/blog/whoneedsdashboards-post" target="_blank">Who Needs Dashboards?</a> explored different types of dashboard in a business and why dashboarding is important. It also explored how dashboarding increases transparency and communication in a business, and the benefits of this. 
+The earlier blog post <a href="{{site.baseurl}}/blog/who-needs-dashboards" target="_blank">Who Needs Dashboards?</a> explored different types of dashboard in a business and why dashboarding is important. It also explored how dashboarding increases transparency and communication in a business, and the benefits of this. 
 
 This series of posts will cover some hints and tips on how to ensure the dashboards you create are easy to maintain and suitable for their purpose.
 

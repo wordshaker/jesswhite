@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Slowing Down For Self Care
 description: "An update on how I'm putting my mental and physical health first for a while."
 date: 2022-06-19

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Pre-loved not Legacy
 description: "What is great about working with older systems and why I think legacy is a dirty word."
 image: "/images/posts/2020/05-07.jpg"

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Pull Down The Ivory Towers
 description: "Knowledge is power. Share it. Scale it. Build great teams."
 date: 2021-05-20
