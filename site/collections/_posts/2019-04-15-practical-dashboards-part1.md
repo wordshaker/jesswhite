@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Introduction To Baselines for Dashboards
 description: "Part One of A Practical Guide To Dashboarding. Why dashboards are important and how to keep them useful."
 date: 2019-04-15

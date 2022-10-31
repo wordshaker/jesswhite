@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Metrics Baselines for Services
 description: "Part Two of A Practical Guide To Dashboarding. Standardised baselines for measuring Services behaviour and how they can be used."
 date: 2019-06-15
@@ -14,7 +15,7 @@ tags: ['2019']
 ---
 <br/>
 
-As mentioned in the <a href="{{site.baseurl}}/blog/practicaldashboardspart1-post" target="_blank">previous post</a> having baselines for dashboards can be useful for a variety of reasons.
+As mentioned in the <a href="{{site.baseurl}}/blog/practical-dashboards-part1" target="_blank">previous post</a> having baselines for dashboards can be useful for a variety of reasons.
 
 * Recognising patterns for where to investigate when something goes wrong in your system.
 * Transferrable knowledge across teams.

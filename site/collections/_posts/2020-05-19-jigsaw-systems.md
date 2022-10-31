@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Pre-loved Systems Are Like Second Hand Jigsaw Puzzles
 description: "Working out domains when working with pre-existing systems. How to put together the full picture of a system."
 date: 2020-05-19

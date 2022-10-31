@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Maintaining Repositories During Hacktober
 description: "A guide to maintaining repositories during Hacktoberfest 2021"
 date: 2021-10-08

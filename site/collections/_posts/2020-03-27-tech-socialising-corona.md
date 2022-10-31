@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Socialising - Distantly (and Not)
 description: "How to take part in the East Mids tech scene, both before and after COVID-19."
 image: "/images/posts/2020/03-27.jpg"
