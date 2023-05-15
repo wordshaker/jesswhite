@@ -2,7 +2,7 @@
 layout: post
 title: A Year on the Board of the .NET Foundation
 description: "The .NET Foundation elections are coming up. Here is my experience from being on the Board of Directors of the .NET Foundation for one year."
-date: 2023-05-18
+date: 2023-05-15
 image:  '/images/posts/2023/05-18.jpg'
 tags: ['2023','DNF']
 ---
