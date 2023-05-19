@@ -30,7 +30,14 @@ $ npm run install-jekyll
 Run the website:
 
 ~~~bash
-$ bundle exec jekyll serve --source site --port 6060
+$ npm start
+~~~
+
+You may need to run these commands first 
+
+~~~bash
+$ npm install
+$ bundle install
 ~~~
 
 ## Gotchas
