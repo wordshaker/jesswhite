@@ -68,6 +68,14 @@ The team of people who do the hard work to make sure the .NET Foundation functio
 
 I'm really looking forward to meeting who joins us both on the .NET Foundation Board of Directors and in the committees, and for all the other things I'm going to learn in the coming year. 
 
+
+# Links
+
+- [Board Member Responsibilities and Expectations](https://dotnetfoundation.org/board-elections/board-member-responsibilities-and-expectations)
+- [Nomination Committee 2023](https://dotnetfoundation.org/board-elections/nomination-committee)
+- [Nomination Process and Expectations](https://dotnetfoundation.org/board-elections/nomination-process-and-expectations)
+- [Nomination Submission Form](https://forms.office.com/r/KyxTC8XBMT)
+
 ---
 
 <div style="text-align:center" markdown="1">
