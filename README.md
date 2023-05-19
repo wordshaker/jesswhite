@@ -33,6 +33,13 @@ Run the website:
 $ npm start
 ~~~
 
+You may need to run these commands first 
+
+~~~bash
+$ npm install
+$ bundle install
+~~~
+
 ## Gotchas
 ----
 - When running locally, you will only see posts that are in the past or dated for the current day.
