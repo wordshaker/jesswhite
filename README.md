@@ -1,12 +1,12 @@
 
-## Jessica White's Personal Website
+## Jessica Brentnall's Personal Website
 
 [![JessWhite Deploy to CO.UK](https://github.com/wordshaker/jesswhite/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/wordshaker/jesswhite/actions/workflows/deploy.yml)
 ![Known Vulnerabilities](https://snyk.io/test/github/wordshaker/jesswhite/badge.svg)
 
-The personal website of Jessica White.
+The personal website of Jessica Brentnall.
 
-![Jessica White Screenshot](./site/images/screenshot.png)
+![Jessica Brentnall Screenshot](./site/images/screenshot.png)
 
 ## Development Instructions
 ---

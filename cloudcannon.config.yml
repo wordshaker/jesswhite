@@ -1,7 +1,7 @@
 _inputs:
   title:
     type: text
-    comment: Jessica White
+    comment: Jessica Brentnall
 
 # Base path to your site source files, same as source for Jekyll
 source: site
