@@ -1,7 +1,6 @@
 
 ## Jessica Brentnall's Personal Website
 
-[![JessWhite Deploy to CO.UK](https://github.com/wordshaker/jesswhite/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/wordshaker/jesswhite/actions/workflows/deploy.yml)
 ![Known Vulnerabilities](https://snyk.io/test/github/wordshaker/jesswhite/badge.svg)
 
 The personal website of Jessica Brentnall.
@@ -44,10 +43,6 @@ $ bundle install
 ----
 - When running locally, you will only see posts that are in the past or dated for the current day.
 - Sometimes the `.html`'s are not automatically removed from urls, breaking the websites paths post deployment
-
-## Deployment pipeline
----
-GitHub Actions is set up to build on pull request. When a pull request is merged into main, the site will be deployed through github actions
 
 ## Jekyll Template Used
 ---
