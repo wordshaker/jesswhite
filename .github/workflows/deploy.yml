@@ -1,4 +1,6 @@
 name: JessWhite Deploy to CO.UK
+permissions:
+  contents: read
 
 on:
   push:
