@@ -1,13 +1,13 @@
 source "https://rubygems.org"
 
 group :jekyll_plugins do
-  gem "jekyll-bookshop", "3.7.0"
+  gem "jekyll-bookshop", "3.16.3"
   gem 'jekyll-watch', :git => "https://github.com/CloudCannon/jekyll-watch"
   gem 'jekyll-tagging'
   gem "jekyll-sitemap"
   gem "jekyll-pagebreak", "~> 0.9"
-  gem "webrick", "~> 1.8"
-  gem 'wdm', '~> 0.1.1', :install_if => Gem.win_platform?
+  gem "webrick", "~> 1.9"
+  gem 'wdm', '~> 0.2.0', :install_if => Gem.win_platform?
   gem 'jekyll-feed'
 end
 
