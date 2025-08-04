@@ -141,7 +141,7 @@ PLATFORMS
   riscv64-linux-gnu
   riscv64-linux-musl
   ruby
-  x64-mingw32
+  x64-mingw-ucrt
   x64-unknown
 
 DEPENDENCIES
